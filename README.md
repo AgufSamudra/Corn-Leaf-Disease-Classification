@@ -24,3 +24,6 @@ This project aims to develop a machine learning model capable of classifying dis
 4. Try it!
 
 ## Example
+![Image 1](https://raw.githubusercontent.com/AgufSamudra/Corn-Leaf-Disease-Classification/main/image/1.png)
+
+![Image 2](https://raw.githubusercontent.com/AgufSamudra/Corn-Leaf-Disease-Classification/main/image/2.png)
