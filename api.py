@@ -6,7 +6,6 @@ from torchvision.datasets import ImageFolder
 from PIL import Image
 import io
 import google.generativeai as genai
-from deep_translator import GoogleTranslator
 
 app = FastAPI(debug=True)
 
